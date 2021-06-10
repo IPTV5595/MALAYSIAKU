@@ -1,0 +1,697 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo=" https://i.ibb.co/L9rY2tN/hbo.png" group-title=" FILEM ",HBO MALAYSIA
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="FILEM" tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpFf7EJ0GuuN-0GVcaFqwK7fPmWHrJ9ft5w&usqp=CAU ",HBO 2
+https://gratismkctv.net/film/hbo.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJy_3oSQ2PoiuxTQOyYnDffv7ZinseWuT5Vw&usqp=CAU" group-title="FILEM",Movie Time
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22731/movie-kingdom/thumbv_20200717_232723.jpg" group-title="FILEM",MOVIE KINGDOM
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+ 
+#EXTINF:-1 tvg-logo=" https://i.ytimg.com/vi/5Ylrxsyy5vE/hqdefault.jpg " group-title=" FILEM ",HBO HITS
+http://zalogitv.tech:8080/Rizal/Rizal/1368
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU " group-title=" FILEM ",HBO FAMILY 
+http://zalogitv.tech:8080/Rizal/Rizal/1370
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title=" FILEM ",HBO SIGNATURE
+http://zalogitv.tech:8080/Rizal/Rizal/1366
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="FILEM",MBC Max HD
+http://51.81.66.195:1935/krtv/mbc_540/playlist.m3u8?checkedby:iptvcat.com
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="FILEM",MBC 2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title=" FILEM ",BOO 
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8?checkedby:iptvcat.com
+ 
+#EXTINF:-1 tvg-logo="https://tvchannelbranding.files.wordpress.com/2015/11/foxcrime-10.jpg" group-title=" FILEM ", Fox Crime (Asia)
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png" group-title="FILEM"",CINEMAX ACTIONMAX
+http://zalogitv.tech:8080/Rizal/Rizal/1372
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIIcWnZ2sdNz4riVmtmoASWnRXBKV3f-bzVabnVrDb9Sv6L_BVJCEaJWPeO30B6DXCHqs&usqp=CAU" group-title=" FILEM ",FOX ACTION MOVIES 
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1 group-title="FILEM" tvg logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" , FOX ACTION MOVIES 2
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/413_300.png" group-title=" FILEM ",FOX MOVIES
+https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+EXTINF:-1 tvg-logo="https://i.ibb.co/wd2b0Pv/20200229-225840.png" group-title="FILEM",HITS MOVIES
+http://zalogitv.tech:8080/Rizal/Rizal/1398
+#EXTINF:-1 group-title="FILEM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6OC7JsqSFcpG_S4NdRxZ2z-HwS2k2RRClmw&usqp=CAU" tvg-id="Erz.&pictures" , &Pictures HD
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
+ 
+ 
+#EXTINF:-1 group-title="FILEM" tvg-logo="https://www.adgully.com/img/400/201910/flix-logo_2.png.jpg" tvg-id="Erz.&flix" , &Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
+ 
+#EXTINF:-1 group-title="FILEM" tvg-logo="http://kamiselaluada.com/img/prive.png", &Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/713sbjk0q7L.png" group-title="PENGETAHUAN",DISCOVERY INVESTIGATION
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7848
+ 
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="FILEM",KIX
+http://zalogitv.tech:8080/Rizal/Rizal/1410
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="FILEM", Celestial Movie 
+http://zalogitv.tech:8080/Rizal/Rizal/305
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/CCM_Celestial_Classic_Movies.jpg/revision/latest/scale-to-width-down/340?cb=20120620033034" group-title=" FILEM ",CCM
+http://my.odtv.uk:80/5214022704/1810662031/160
+ 
+#EXTINF:-1 group-title="FILEM" tvg-logo="https://www.firstmedia.com/files/images/zee-cinema_001.png" tvg-id="Erz.zeecinema" tvg-name="zee cinema" , Zee Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+ 
+#EXTINF:-1 group-title="FILEM" tvg-logo="https://i.imgur.com/FMgtqM8.jpg" ,Hallmark Channel
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="FILEM" tvg-logo="https://i.imgur.com/RHbmKUV.jpg" ,Hallmark Drama
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
+ 
+#EXTINF:-1 group-title="FILEM" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" ,Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="TV MALAYSIA",TV1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-Vb2cKb860Uk/UUVMnkfkQ0I/AAAAAAAAACs/UrKNsZtz0yE/s1600/tv2_logo.png" group-title="TV MALAYSIA",TV2 
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8?checkedby:iptvcat.com
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_(Malaysia).svg/1280px-TV3_(Malaysia).svg.png" group-title="TV MALAYSIA",TV3
+http://zalogitv.tech:8080/Rizal/Rizal/1831
+#EXTINF:-1 tvg-logo="https://www.lowyat.net/wp-content/uploads/2021/03/rtm-tv6-test-transmission-01.jpg" group-title="TV MALAYSIA",TV6
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/images.marketing-interactive.com/wp-content/uploads/2018/01/ntv7-e1516336088340-700x418.png" group-title="TV MALAYSIA",NTV7
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/8TV_my.svg/1280px-8TV_my.svg.png" group-title="TV MALAYSIA",8TV
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_of_TV9_(Malaysia).svg/919px-Logo_of_TV9_(Malaysia).svg.png" group-title="TV MALAYSIA",TV9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+ 
+EXTINF:-1 tvg-logo="tv9.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_of_TV9_(Malaysia).svg/919px-Logo_of_TV9_(Malaysia).svg.png" group-title="TV MALAYSIA",TV9 BACKUP
+http://51.79.208.146:61980/myplay/c_58007/index.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png" group-title="TV MALAYSIA",TV AL HIJRAH
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtmokey.png", OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
+ 
+ 
+#EXTINF:-1 group-title=" TV MALAYSIA " tvg-logo="http://kamiselaluada.com/img/bes.png",Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8
+#EXTINF:-1 group-title=" TV MALAYSIA " tvg-logo="https://i.ytimg.com/vi/0uTQ4wAVZUo/maxresdefault.jpg",SURIA
+http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="TV MALAYSIA",AWESOME TV
+http://51.79.208.146:61980/myplay/c_58014/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAJLGMXYIpbkNVsK628Fdah227BhdmD9Sjhv5qhiUFNcTQu8OT&s" group-title="TV MALAYSIA",DRAMA SANGAT
+http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501_300.png" group-title="TV MALAYSIA",ASTRO AWANI HD 
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/hello.png"" group-title="TV MALAYSIA",,Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_300.png" group-title="TV MALAYSIA",ASTRO RIA HD 
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_300.png" group-title="TV MALAYSIA",ASTRO RIA HD 2
+http://zalogitv.tech:8080/Rizal/Rizal/1819
+ 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/121_300.png" group-title="TV MALAYSIA",ASTRO PRIMA HD
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/560641520110301184/d8ShmTp5_400x400.png" group-title="TV MALAYSIA",ASTRO GO SHOP GAAYA
+http://185.180.221.194:8278/streams/d/Goshop2/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/440px-Asian_Food_Network.svg.png" group-title="GAYA HIDUP",AFN
+http://zalogitv.tech:8080/Rizal/Rizal/1422
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITw3eX64gb78aIO-YQcyqPNQmXMCxT_vGi_I05-5wV1E-V5wBYh2N75wim2DOVqTR-P4&usqp=CAU" group-title="GAYA HIDUP",AFC
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8?checkedby:iptvcat.com
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_300.png" group-title="TV MALAYSIA",ASTRO OASIS HD
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8?checkedby:iptvcat.com
+ 
+ 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107_300.png" group-title="TV MALAYSIA",ASTRO WARNA HD
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="TV MALAYSIA",ASTRO CITRA HD
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8?checkedby:iptvcat.com
+ 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611_300.png" group-title="TV MALAYSIA",ASTRO CERIA
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8?checkedby:iptvcat.com
+ 
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg" group-title="GAYA HIDUP",AXN
+http://zalogitv.tech:8080/Rizal/Rizal/1402
+ 
+ 
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIIcWnZ2sdNz4riVmtmoASWnRXBKV3f-bzVabnVrDb9Sv6L_BVJCEaJWPeO30B6DXCHqs&usqp=CAU” group-title="GAYA HIDUP", LIFE TIME
+http://zalogitv.tech:8080/Rizal/Rizal/1425
+ 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="PENGETAHUAN",ANIMAL PLANET
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="TV MALAYSIA",ASTRO NAURA
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Astro_Rania_NEW.png/220px-Astro_Rania_NEW.png" group-title="TV MALAYSIA",ASTRO RANIA
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Astro_Aura_NEW.png/220px-Astro_Aura_NEW.png" group-title="TV MALAYSIA",ASTRO AURA
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
+#EXTINF:1 tvg-logo="https://ms.wikipedia.org/wiki/Astro_BollyOne_HD#/media/Fail:ABO_BollyOne.png"group-title="TV MALAYSIA" ASTRO BOX OFFICE BOLLYONE HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6754
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:TTV_UPSR.png" group-title="TV MALAYSIA",ASTRO TUTOR TV UPSR 
+http://my.odtv.uk:80/5214022704/1810662031/95
+#EXTINF:1,-1 tvg-logo=" https://ms.wikipedia.org/wiki/Astro_Tutor_TV#/media/Fail:Astro_TTV.png"group-title="TV MALAYSIA",ASTRO TUTOR TV
+http://my.odtv.uk:80/5214022704/1810662031/96
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title=" KANAK- KANAK", Boomerang 
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7199
+ 
+#EXTINF:0 tvg-id="ext" group-title=" KANAK- KANAK ",Disney Channel [Backup]
+http://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title=" KANAK- KANAK", Cartoon Network 
+http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd
+ 
+#EXTINF:-1 tvg-logo="" group-title="KANAK- KANAK",Nick
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+ 
+#EXTINF:-1 tvg-logo="" group-title="KANAK- KANAK",DORA TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title=" KANAK- KANAK", Nick Junior 
+http://dimapro.cz:8080/d4:cf:f9:0b:fd:73/ziajdjjfdifjd64646/38580?checkedby:iptvcat.com
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title=" KANAK- KANAK", Nickelodeon 
+http://66.206.39.25:8080/garry1/garry1/88591?checkedby:iptvcat.com
+ 
+#EXTINF:-1 tvg-logo="" group-title="KANAK- KANAK",Little Baby Bun
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=995&deviceId=5eb301b7395671000780d100&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title=" KANAK- KANAK", Dreamworks 
+http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=dreamworks
+ 
+#EXTINF:-1 tvg-logo=" http://3.bp.blogspot.com/-Y-MPiKdS3Ug/ThyCyQh2ZRI/AAAAAAAAb68/zzyhc_bW_hg/s1600/national_geographic_logo_history6.jpg" group-title=" PENGETAHUAN",NATIONAL GEOGRAPHIC HD 
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo=" http://3.bp.blogspot.com/-Y-MPiKdS3Ug/ThyCyQh2ZRI/AAAAAAAAb68/zzyhc_bW_hg/s1600/national_geographic_logo_history6.jpg" group-title=" PENGETAHUAN",NATIONAL GEOGRAPHIC HD 2
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=natgeo
+ 
+#EXTINF:-1 tvg-logo=" https://i.pinimg.com/originals/13/c1/5a/13c15a09a8192295d76b797bd46f3cb0.png" group-title=" PENGETAHUAN", NAT GEO PEOPLE
+http://zalogitv.tech:8080/Rizal/Rizal/1443
+ 
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title=" PENGETAHUAN", NAT GEO PEOPLE HD
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=natgeopeople
+ 
+#EXTINF:-1 tvg-logo=" https://png.pngitem.com/pimgs/s/212-2126990_nat-geo-wild-logo-hd-png-download.png" group-title=" PENGETAHUAN",NAT GEO WILD HD
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Nat Geo Wild HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="PENGETAHUAN", Nat Geo Wild HD
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=natgeowild
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Discovery Channel HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="Server ID",Server ID: Discovery Channel HD
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=disco
+ 
+ 
+ 
+#EXTINF:-1 group-title="FILEM" tvg-logo="https://i.ibb.co/cbNbZYb/fox.png" , FOX
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo=" http://i.imgur.com/lB0VeoB.png" group-title=" PENGETAHUAN",DISCOVERY HD
+http://zalogitv.tech:8080/Rizal/Rizal/1439
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ6bP9ar-IWFqnjEKRBvI8d3KmISRDTC_ZFrnVgthJrv-lh96RHRfg26pDv28LcIPEWtI&usqp=CAU"group-title="PENGETAHUAN", DISCOVERY SCIENCE HD
+http://zalogitv.tech:8080/Rizal/Rizal/1902
+ 
+#EXTINF:-1 tvg-logo=" https://www.rk-ware.net/iptv/logos/crime-and-investigation.png" group-title=" PENGETAHUAN",CRIME INVESTIGATION
+http://zalogitv.tech:8080/Rizal/Rizal/1447
+#EXTINF:-1 tvg-logo=" https://static.epg.best/mx/HistoryChannel.mx.png" group-title=" PENGETAHUAN",HISTORY
+http://zalogitv.tech:8080/Rizal/Rizal/1436
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title=" PENGETAHUAN",DMAX
+http://zalogitv.tech:8080/Rizal/Rizal/515
+ 
+#EXTINF:-1 group-title=" PENGETAHUAN " tvg-logo="https://i.ibb.co/8KqHtTK/Outdoor-Channel.jpg" tvg-id="Erz.outdoor" , Outdoor
+http://zalogitv.tech:8080/Rizal/Rizal/1904
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/mJZHoUj.png" tvg-id="Erz.animalslive" ,Animals Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+ 
+#EXTINF:-1 group-title=" PENGETAHUAN " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTblfnHv_IDyyH0Ae7HRCr4CsVhB3Kt0Ei0Tg&usqp=CAU" tvg-id="Erz.ytnscience" ,YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2095627144.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title=" PENGETAHUAN ", CGTN Documentary 
+https://livedoc.cgtn.com/500d/prog_index.m3u8?checkedby:iptvcat.com
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title=" PENGETAHUAN ", CGTN Documentary HD
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9f61408e3afb633e50cdf1b20de6f466f93fb3c9879684db94f7af38b446022a
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title=" KOREA", TVN 
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="ext" group-title="PENGETAHUAN",Law And Crime Network (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title=" KOREA ", TVN MOVIES 
+http://zalogitv.tech:8080/Rizal/Rizal/300
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title=" KOREA ", TVN MOVIES HD
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/394_300.png" group-title=" KOREA ",OH!K HD
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title=" KOREA ", Sony GEM TV 
+http://zalogitv.tech:8080/Rizal/Rizal/1409
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title=" KOREA ", Sony One 
+http://zalogitv.tech:8080/Rizal/Rizal/1411
+ 
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title=" GAYA HIDUP", HGTV 
+http://zalogitv.tech:8080/Rizal/Rizal/1421
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Fox_HD_wordmark_%28Asia%29.jpg" group-title=" GAYA HIDUP", FOX HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/chunks.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title=" GAYA HIDUP", Asian Food Network 
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png?v=2.0.0.13" group-title=" GAYA HIDUP", FASHION TV
+http://home-tv.my.id/RHS/ampera.m3u8?channel=usee-fashiontv
+ 
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-horizontal/biznet_iptv_logo_full_colors-01.jpg" group-title=" GAYA HIDUP", BISNET LIFESTYLE
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+ 
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh56qHpLkd19y4qnNEDQ41VIp8CIEZkdk8eA&usqp=CAU " group-title="GAYA HIDUP",FOX LIFE
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:-1 group-title="FILEM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7MpyYIzXUJYT4nrG_Djfk_c1PpUKR-s0Sg&usqp=CAU" tvg-id="Erz.foxfamilymovies" ,FOX FAMILY Movies
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+ 
+#EXTINF:-1 group-title="GAYA HIDUP" tvg-logo="https://iptv.live/images/logo/channel/crops/9d1f3177494f522b2fa972f242a7e2e5.png",HD Fashion & Lifestyle
+http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
+#EXTINF:-1   tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5IgoxjhhHwrUnOBXk55dyfIXUx0gWi8CIXyfDEpqAyYTgVO_xM2swVPUHYLmwrNWFsLw&usqp=CAU" group-title="GAYA HIDUP",TLC
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/550_300.png" group-title="TV MALAYSIA",NAT GEO WILD 
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd?checkedby:iptvcat.com
+ 
+#EXTINF:0 tvg-logo=" https://www.lyngsat.com/logo/tv/tt/travel_xp_in_hd.png " group-title="PENGETAHUAN",TRAVEL XP
+http://zalogitv.tech:8080/Rizal/Rizal/516
+ 
+#EXTINF:0 tvg-logo=" https://static.epg.best/kr/BBCEarth.kr.png" group-title="PENGETAHUAN",BBC EARTH
+http://iptv.tvmalaysia.cc:80/139664/139664/7233
+#EXTINF:0 tvg-logo=" https://static.epg.best/kr/BBCEarth.kr.png" group-title="PENGETAHUAN",BBC EARTH HD
+http://zalogitv.tech:8080/Rizal/Rizal/1434
+ 
+#EXTINF:0 tvg-id="history" group-title="KNOWLEDGE",History HD
+http://zalogitv.tech:8080/Rizal/Rizal/1436
+ 
+#EXTINF:-1   group-title="PENGETAHUAN" tvg-logo="https://www.huntchannel.tv/wp-content/uploads/2020/02/Video-Title.png",HUNT CHANNEL
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1   group-title="GAYA HIDUP" tvg-logo="https://image.roku.com/developer_channels/prod/83f9f0ddd6f6d0bd9394ab0b34fcc7daa84ea75a1b923b8872acdb36f26c034a.png",The Pet Collection
+https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
+ 
+#EXTINF:-1   group-title="GAYA HIDUP" tvg-logo="https://www.myproduksiyon.com/wp-content/uploads/Russian_Travel_Guide_TV.png", Travel Guide tv
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="ext" group-title="GAYA HIDUP",Warner TV CH712
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
+ 
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDq5ggRACXtub-cSDqpf2seXwVQWnc-Pl3zQ&usqp=CAU" group-title="RADIO", TRAXX FM
+http://cloudstreaming.mramedia.com:8003/live
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KkqllU1.png" group-title="RADIO", HITZ FM
+http://astro1.rastream.com/hitz?type=mp3
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiux5URdPiOk9aSGtwWq_yde7mZjlDFsRCeMWPd-aPE-jYQTIifNLHEsClQO5uKphiqYc&usqp=CAU" group-title="RADIO",ERA FM
+http://astro2.rastream.com/era
+ 
+#EXTINF:-1 tvg-logo="https://www.freeradiotune.com/wp-content/uploads/2016/02/Hot-FM.png" group-title=RADIO",Hot FM	
+http://mediaprima.rastream.com/mediaprima-hotfm.android
+#EXTINF:-1 tvg-logo="https://radio-online.my/assets/image/radio/180/kooll-fm.jpg " group-title=RADIO ",Kool FM
+http://mediaprima.rastream.com/mediaprima-koolfm
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1XJURnsUch49KcP0zFQCRzciKQls5vYuCow&usqp=CAU" group-title=RADIO ",Sinar FM
+http://astro2.rastream.com/sinar?type=mp3
+#EXTINF:-1 tvg-logo="https://storage.unitedwebnetwork.com/files/41/37cd3d3d5b27f1730a8dbb123b7f8817.jpg" group-title=RADIO ",THR Gegar
+http://iptv.tvmalaysia.cc:80/139664/139664/7174
+ 
+ 
+ 
+ 
+RAW Paste Data
+JANGAN JUALBELI..AKU PUN DAPAT PERCUMA DARI INTERNET.
+#EXTM3U
+#EXTINF:-1 tvg-logo=" https://i.ibb.co/L9rY2tN/hbo.png" group-title=" FILEM ",HBO MALAYSIA
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="FILEM" tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpFf7EJ0GuuN-0GVcaFqwK7fPmWHrJ9ft5w&usqp=CAU ",HBO 2
+https://gratismkctv.net/film/hbo.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJy_3oSQ2PoiuxTQOyYnDffv7ZinseWuT5Vw&usqp=CAU" group-title="FILEM",Movie Time
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22731/movie-kingdom/thumbv_20200717_232723.jpg" group-title="FILEM",MOVIE KINGDOM
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.ytimg.com/vi/5Ylrxsyy5vE/hqdefault.jpg " group-title=" FILEM ",HBO HITS
+http://zalogitv.tech:8080/Rizal/Rizal/1368
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU " group-title=" FILEM ",HBO FAMILY 
+http://zalogitv.tech:8080/Rizal/Rizal/1370
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title=" FILEM ",HBO SIGNATURE
+http://zalogitv.tech:8080/Rizal/Rizal/1366
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="FILEM",MBC Max HD
+http://51.81.66.195:1935/krtv/mbc_540/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="FILEM",MBC 2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" group-title=" FILEM ",BOO 
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://tvchannelbranding.files.wordpress.com/2015/11/foxcrime-10.jpg" group-title=" FILEM ", Fox Crime (Asia)
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png" group-title="FILEM"",CINEMAX ACTIONMAX
+http://zalogitv.tech:8080/Rizal/Rizal/1372
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIIcWnZ2sdNz4riVmtmoASWnRXBKV3f-bzVabnVrDb9Sv6L_BVJCEaJWPeO30B6DXCHqs&usqp=CAU" group-title=" FILEM ",FOX ACTION MOVIES 
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1 group-title="FILEM" tvg logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" , FOX ACTION MOVIES 2
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/413_300.png" group-title=" FILEM ",FOX MOVIES
+https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+EXTINF:-1 tvg-logo="https://i.ibb.co/wd2b0Pv/20200229-225840.png" group-title="FILEM",HITS MOVIES
+http://zalogitv.tech:8080/Rizal/Rizal/1398
+#EXTINF:-1 group-title="FILEM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6OC7JsqSFcpG_S4NdRxZ2z-HwS2k2RRClmw&usqp=CAU" tvg-id="Erz.&pictures" , &Pictures HD
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="FILEM" tvg-logo="https://www.adgully.com/img/400/201910/flix-logo_2.png.jpg" tvg-id="Erz.&flix" , &Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
+
+#EXTINF:-1 group-title="FILEM" tvg-logo="http://kamiselaluada.com/img/prive.png", &Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/713sbjk0q7L.png" group-title="PENGETAHUAN",DISCOVERY INVESTIGATION
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7848
+
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="FILEM",KIX
+http://zalogitv.tech:8080/Rizal/Rizal/1410
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="FILEM", Celestial Movie 
+http://zalogitv.tech:8080/Rizal/Rizal/305
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/CCM_Celestial_Classic_Movies.jpg/revision/latest/scale-to-width-down/340?cb=20120620033034" group-title=" FILEM ",CCM
+http://my.odtv.uk:80/5214022704/1810662031/160
+
+#EXTINF:-1 group-title="FILEM" tvg-logo="https://www.firstmedia.com/files/images/zee-cinema_001.png" tvg-id="Erz.zeecinema" tvg-name="zee cinema" , Zee Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="FILEM" tvg-logo="https://i.imgur.com/FMgtqM8.jpg" ,Hallmark Channel
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="FILEM" tvg-logo="https://i.imgur.com/RHbmKUV.jpg" ,Hallmark Drama
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="FILEM" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" ,Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="TV MALAYSIA",TV1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-Vb2cKb860Uk/UUVMnkfkQ0I/AAAAAAAAACs/UrKNsZtz0yE/s1600/tv2_logo.png" group-title="TV MALAYSIA",TV2 
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_(Malaysia).svg/1280px-TV3_(Malaysia).svg.png" group-title="TV MALAYSIA",TV3
+http://zalogitv.tech:8080/Rizal/Rizal/1831
+#EXTINF:-1 tvg-logo="https://www.lowyat.net/wp-content/uploads/2021/03/rtm-tv6-test-transmission-01.jpg" group-title="TV MALAYSIA",TV6
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/images.marketing-interactive.com/wp-content/uploads/2018/01/ntv7-e1516336088340-700x418.png" group-title="TV MALAYSIA",NTV7
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/8TV_my.svg/1280px-8TV_my.svg.png" group-title="TV MALAYSIA",8TV
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_of_TV9_(Malaysia).svg/919px-Logo_of_TV9_(Malaysia).svg.png" group-title="TV MALAYSIA",TV9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+
+EXTINF:-1 tvg-logo="tv9.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_of_TV9_(Malaysia).svg/919px-Logo_of_TV9_(Malaysia).svg.png" group-title="TV MALAYSIA",TV9 BACKUP
+http://51.79.208.146:61980/myplay/c_58007/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png" group-title="TV MALAYSIA",TV AL HIJRAH
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtmokey.png", OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
+
+
+#EXTINF:-1 group-title=" TV MALAYSIA " tvg-logo="http://kamiselaluada.com/img/bes.png",Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8
+#EXTINF:-1 group-title=" TV MALAYSIA " tvg-logo="https://i.ytimg.com/vi/0uTQ4wAVZUo/maxresdefault.jpg",SURIA
+http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="TV MALAYSIA",AWESOME TV
+http://51.79.208.146:61980/myplay/c_58014/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAJLGMXYIpbkNVsK628Fdah227BhdmD9Sjhv5qhiUFNcTQu8OT&s" group-title="TV MALAYSIA",DRAMA SANGAT
+http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501_300.png" group-title="TV MALAYSIA",ASTRO AWANI HD 
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/hello.png"" group-title="TV MALAYSIA",,Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_300.png" group-title="TV MALAYSIA",ASTRO RIA HD 
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_300.png" group-title="TV MALAYSIA",ASTRO RIA HD 2
+http://zalogitv.tech:8080/Rizal/Rizal/1819
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/121_300.png" group-title="TV MALAYSIA",ASTRO PRIMA HD
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/560641520110301184/d8ShmTp5_400x400.png" group-title="TV MALAYSIA",ASTRO GO SHOP GAAYA
+http://185.180.221.194:8278/streams/d/Goshop2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/440px-Asian_Food_Network.svg.png" group-title="GAYA HIDUP",AFN
+http://zalogitv.tech:8080/Rizal/Rizal/1422
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITw3eX64gb78aIO-YQcyqPNQmXMCxT_vGi_I05-5wV1E-V5wBYh2N75wim2DOVqTR-P4&usqp=CAU" group-title="GAYA HIDUP",AFC
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8?checkedby:iptvcat.com
+
+
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_300.png" group-title="TV MALAYSIA",ASTRO OASIS HD
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107_300.png" group-title="TV MALAYSIA",ASTRO WARNA HD
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title="TV MALAYSIA",ASTRO CITRA HD
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611_300.png" group-title="TV MALAYSIA",ASTRO CERIA
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg" group-title="GAYA HIDUP",AXN
+http://zalogitv.tech:8080/Rizal/Rizal/1402
+
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIIcWnZ2sdNz4riVmtmoASWnRXBKV3f-bzVabnVrDb9Sv6L_BVJCEaJWPeO30B6DXCHqs&usqp=CAU” group-title="GAYA HIDUP", LIFE TIME
+http://zalogitv.tech:8080/Rizal/Rizal/1425
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="PENGETAHUAN",ANIMAL PLANET
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="TV MALAYSIA",ASTRO NAURA
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Astro_Rania_NEW.png/220px-Astro_Rania_NEW.png" group-title="TV MALAYSIA",ASTRO RANIA
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Astro_Aura_NEW.png/220px-Astro_Aura_NEW.png" group-title="TV MALAYSIA",ASTRO AURA
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
+#EXTINF:1 tvg-logo="https://ms.wikipedia.org/wiki/Astro_BollyOne_HD#/media/Fail:ABO_BollyOne.png"group-title="TV MALAYSIA" ASTRO BOX OFFICE BOLLYONE HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6754
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:TTV_UPSR.png" group-title="TV MALAYSIA",ASTRO TUTOR TV UPSR 
+http://my.odtv.uk:80/5214022704/1810662031/95
+#EXTINF:1,-1 tvg-logo=" https://ms.wikipedia.org/wiki/Astro_Tutor_TV#/media/Fail:Astro_TTV.png"group-title="TV MALAYSIA",ASTRO TUTOR TV
+http://my.odtv.uk:80/5214022704/1810662031/96
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title=" KANAK- KANAK", Boomerang 
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7199
+
+#EXTINF:0 tvg-id="ext" group-title=" KANAK- KANAK ",Disney Channel [Backup]
+http://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title=" KANAK- KANAK", Cartoon Network 
+http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="KANAK- KANAK",Nick
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="" group-title="KANAK- KANAK",DORA TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title=" KANAK- KANAK", Nick Junior 
+http://dimapro.cz:8080/d4:cf:f9:0b:fd:73/ziajdjjfdifjd64646/38580?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title=" KANAK- KANAK", Nickelodeon 
+http://66.206.39.25:8080/garry1/garry1/88591?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="" group-title="KANAK- KANAK",Little Baby Bun
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=995&deviceId=5eb301b7395671000780d100&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title=" KANAK- KANAK", Dreamworks 
+http://home-tv.my.id/RHS/wongkitompd.m3u8?channel=dreamworks
+
+#EXTINF:-1 tvg-logo=" http://3.bp.blogspot.com/-Y-MPiKdS3Ug/ThyCyQh2ZRI/AAAAAAAAb68/zzyhc_bW_hg/s1600/national_geographic_logo_history6.jpg" group-title=" PENGETAHUAN",NATIONAL GEOGRAPHIC HD 
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" http://3.bp.blogspot.com/-Y-MPiKdS3Ug/ThyCyQh2ZRI/AAAAAAAAb68/zzyhc_bW_hg/s1600/national_geographic_logo_history6.jpg" group-title=" PENGETAHUAN",NATIONAL GEOGRAPHIC HD 2
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=natgeo
+
+#EXTINF:-1 tvg-logo=" https://i.pinimg.com/originals/13/c1/5a/13c15a09a8192295d76b797bd46f3cb0.png" group-title=" PENGETAHUAN", NAT GEO PEOPLE
+http://zalogitv.tech:8080/Rizal/Rizal/1443
+
+#EXTINF:-1 tvg-logo=" https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title=" PENGETAHUAN", NAT GEO PEOPLE HD
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=natgeopeople
+
+#EXTINF:-1 tvg-logo=" https://png.pngitem.com/pimgs/s/212-2126990_nat-geo-wild-logo-hd-png-download.png" group-title=" PENGETAHUAN",NAT GEO WILD HD
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Nat Geo Wild HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="PENGETAHUAN", Nat Geo Wild HD
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=natgeowild
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Discovery Channel HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="Server ID",Server ID: Discovery Channel HD
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=disco
+
+
+
+#EXTINF:-1 group-title="FILEM" tvg-logo="https://i.ibb.co/cbNbZYb/fox.png" , FOX
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" http://i.imgur.com/lB0VeoB.png" group-title=" PENGETAHUAN",DISCOVERY HD
+http://zalogitv.tech:8080/Rizal/Rizal/1439
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ6bP9ar-IWFqnjEKRBvI8d3KmISRDTC_ZFrnVgthJrv-lh96RHRfg26pDv28LcIPEWtI&usqp=CAU"group-title="PENGETAHUAN", DISCOVERY SCIENCE HD
+http://zalogitv.tech:8080/Rizal/Rizal/1902
+
+#EXTINF:-1 tvg-logo=" https://www.rk-ware.net/iptv/logos/crime-and-investigation.png" group-title=" PENGETAHUAN",CRIME INVESTIGATION
+http://zalogitv.tech:8080/Rizal/Rizal/1447
+#EXTINF:-1 tvg-logo=" https://static.epg.best/mx/HistoryChannel.mx.png" group-title=" PENGETAHUAN",HISTORY
+http://zalogitv.tech:8080/Rizal/Rizal/1436
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title=" PENGETAHUAN",DMAX
+http://zalogitv.tech:8080/Rizal/Rizal/515
+
+#EXTINF:-1 group-title=" PENGETAHUAN " tvg-logo="https://i.ibb.co/8KqHtTK/Outdoor-Channel.jpg" tvg-id="Erz.outdoor" , Outdoor
+http://zalogitv.tech:8080/Rizal/Rizal/1904
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/mJZHoUj.png" tvg-id="Erz.animalslive" ,Animals Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+
+#EXTINF:-1 group-title=" PENGETAHUAN " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTblfnHv_IDyyH0Ae7HRCr4CsVhB3Kt0Ei0Tg&usqp=CAU" tvg-id="Erz.ytnscience" ,YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2095627144.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title=" PENGETAHUAN ", CGTN Documentary 
+https://livedoc.cgtn.com/500d/prog_index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title=" PENGETAHUAN ", CGTN Documentary HD
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9f61408e3afb633e50cdf1b20de6f466f93fb3c9879684db94f7af38b446022a
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title=" KOREA", TVN 
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="PENGETAHUAN",Law And Crime Network (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title=" KOREA ", TVN MOVIES 
+http://zalogitv.tech:8080/Rizal/Rizal/300
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title=" KOREA ", TVN MOVIES HD
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/394_300.png" group-title=" KOREA ",OH!K HD
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title=" KOREA ", Sony GEM TV 
+http://zalogitv.tech:8080/Rizal/Rizal/1409
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title=" KOREA ", Sony One 
+http://zalogitv.tech:8080/Rizal/Rizal/1411
+
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title=" GAYA HIDUP", HGTV 
+http://zalogitv.tech:8080/Rizal/Rizal/1421
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Fox_HD_wordmark_%28Asia%29.jpg" group-title=" GAYA HIDUP", FOX HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title=" GAYA HIDUP", Asian Food Network 
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png?v=2.0.0.13" group-title=" GAYA HIDUP", FASHION TV
+http://home-tv.my.id/RHS/ampera.m3u8?channel=usee-fashiontv
+
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-horizontal/biznet_iptv_logo_full_colors-01.jpg" group-title=" GAYA HIDUP", BISNET LIFESTYLE
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh56qHpLkd19y4qnNEDQ41VIp8CIEZkdk8eA&usqp=CAU " group-title="GAYA HIDUP",FOX LIFE
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:-1 group-title="FILEM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7MpyYIzXUJYT4nrG_Djfk_c1PpUKR-s0Sg&usqp=CAU" tvg-id="Erz.foxfamilymovies" ,FOX FAMILY Movies
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+
+#EXTINF:-1 group-title="GAYA HIDUP" tvg-logo="https://iptv.live/images/logo/channel/crops/9d1f3177494f522b2fa972f242a7e2e5.png",HD Fashion & Lifestyle
+http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
+#EXTINF:-1   tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5IgoxjhhHwrUnOBXk55dyfIXUx0gWi8CIXyfDEpqAyYTgVO_xM2swVPUHYLmwrNWFsLw&usqp=CAU" group-title="GAYA HIDUP",TLC
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/550_300.png" group-title="TV MALAYSIA",NAT GEO WILD 
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-logo=" https://www.lyngsat.com/logo/tv/tt/travel_xp_in_hd.png " group-title="PENGETAHUAN",TRAVEL XP
+http://zalogitv.tech:8080/Rizal/Rizal/516
+
+#EXTINF:0 tvg-logo=" https://static.epg.best/kr/BBCEarth.kr.png" group-title="PENGETAHUAN",BBC EARTH
+http://iptv.tvmalaysia.cc:80/139664/139664/7233
+#EXTINF:0 tvg-logo=" https://static.epg.best/kr/BBCEarth.kr.png" group-title="PENGETAHUAN",BBC EARTH HD
+http://zalogitv.tech:8080/Rizal/Rizal/1434
+
+#EXTINF:0 tvg-id="history" group-title="KNOWLEDGE",History HD
+http://zalogitv.tech:8080/Rizal/Rizal/1436
+
+#EXTINF:-1   group-title="PENGETAHUAN" tvg-logo="https://www.huntchannel.tv/wp-content/uploads/2020/02/Video-Title.png",HUNT CHANNEL
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1   group-title="GAYA HIDUP" tvg-logo="https://image.roku.com/developer_channels/prod/83f9f0ddd6f6d0bd9394ab0b34fcc7daa84ea75a1b923b8872acdb36f26c034a.png",The Pet Collection
+https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1   group-title="GAYA HIDUP" tvg-logo="https://www.myproduksiyon.com/wp-content/uploads/Russian_Travel_Guide_TV.png", Travel Guide tv
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="GAYA HIDUP",Warner TV CH712
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDq5ggRACXtub-cSDqpf2seXwVQWnc-Pl3zQ&usqp=CAU" group-title="RADIO", TRAXX FM
+http://cloudstreaming.mramedia.com:8003/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KkqllU1.png" group-title="RADIO", HITZ FM
+http://astro1.rastream.com/hitz?type=mp3
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiux5URdPiOk9aSGtwWq_yde7mZjlDFsRCeMWPd-aPE-jYQTIifNLHEsClQO5uKphiqYc&usqp=CAU" group-title="RADIO",ERA FM
+http://astro2.rastream.com/era
+
+#EXTINF:-1 tvg-logo="https://www.freeradiotune.com/wp-content/uploads/2016/02/Hot-FM.png" group-title=RADIO",Hot FM	
+http://mediaprima.rastream.com/mediaprima-hotfm.android
+#EXTINF:-1 tvg-logo="https://radio-online.my/assets/image/radio/180/kooll-fm.jpg " group-title=RADIO ",Kool FM
+http://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1XJURnsUch49KcP0zFQCRzciKQls5vYuCow&usqp=CAU" group-title=RADIO ",Sinar FM
+http://astro2.rastream.com/sinar?type=mp3
+#EXTINF:-1 tvg-logo="https://storage.unitedwebnetwork.com/files/41/37cd3d3d5b27f1730a8dbb123b7f8817.jpg" group-title=RADIO ",THR Gegar
+http://iptv.tvmalaysia.cc:80/139664/139664/7174
+
+
+
+
+.
